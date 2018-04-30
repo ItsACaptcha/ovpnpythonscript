@@ -2,9 +2,12 @@
 a short python script which 'randomly' selects a local configuration file to start openvpn with
 
 Requirements:
-Openvpn
-Python
-the ability to read
+
+  	-Openvpn
+
+  	-Python
+    
+  	-the ability to read
 
 Only tested on Linux
 
