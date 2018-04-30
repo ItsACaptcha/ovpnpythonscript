@@ -9,7 +9,7 @@ Requirements:
     
   	-the ability to read
 
-Only tested on Linux
+Only works on Linux
 
 
 also i know its complete shit
